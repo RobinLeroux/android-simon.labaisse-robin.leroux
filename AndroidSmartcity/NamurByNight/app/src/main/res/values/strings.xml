@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Namur By Night</string>
+
+    <string name="eventsDrawerLabel">Événements</string>
+    <string name="organizersDrawerLabel">Organisateurs</string>
+
+    <string name="eventsButton">Évènements</string>
+    <string name="organizersButton">Organisateurs</string>
+
+    <string name="eventDescriptionLabel">Description :</string>
+    <string name="eventMenuLabel">Carte :</string>
+    <string name="eventPromotionsLabel">Promotions :</string>
+    <string name="eventInfosLabel">Infos :</string>
+    <string name="eventOrganizerLabel">Organisateur :</string>
+
+    <string name="organizerMenuLabel">Carte :</string>
+    <string name="organizerPromotionsLabel">Promotions :</string>
+    <string name="organizerEventsLabel">Événements :</string>
+    <string name="organizerContactLabel">Contact :</string>
+    <string name="homeTextView">Home text view</string>
+
+    <string name="internetConnection">Problème avec votre connexion internet</string>
+
+    <string name="noPromotion">Pas de promotion</string>
+    <string name="noContact">Pas de moyen de contact\ndisponible</string>
+    <string name="idNotFound">Pas d\'événement sélectionné</string>
+</resources>
